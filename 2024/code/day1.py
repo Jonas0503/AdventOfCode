@@ -5,7 +5,7 @@ def read_and_save_file_content():
     left = []
     right = []
 
-    file = open('./input1.txt', 'r')
+    file = open('./input/input1.txt', 'r')
 
     s = file.readline()
     while s:
